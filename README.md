@@ -1,2 +1,2 @@
 # React-website-for-business
-Created with CodeSandbox
+Coded a website for printing Shop Using React.js
